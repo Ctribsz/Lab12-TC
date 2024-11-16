@@ -1,2 +1,3 @@
 # Lab12-TC
-#Video Demostracion
+# Video Demostracion
+![Demo de la aplicación](gif3.gif)
